@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Audio Convert Logo](https://via.placeholder.com/150)
+
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/downloads/)
