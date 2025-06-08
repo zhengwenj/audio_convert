@@ -4,7 +4,9 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/zhengwenj/audio_convert)
+
 </div>
+
 ## 📝 项目概述
 
 Audio Convert 是一款功能强大、界面友好的音频格式转换工具，支持多种主流音频格式之间的相互转换。无论是单个文件转换还是批量处理，Audio Convert 都能提供高效、高质量的转换体验。
