@@ -1,9 +1,12 @@
 # Audio Convert - 通用音频格式转换工具
 
 <div align="center">
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/zhengwenj/audio_convert)
+
+![Audio Convert Logo](https://via.placeholder.com/150)
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/downloads/)
+[![Platform](https://img.shields.io/badge/Platform-Windows_macOS_Linux-lightgrey)](https://github.com/zhengwenj/audio_convert)
 
 </div>
 
